@@ -24,10 +24,10 @@
 
 # 💾 Data :
 
-![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?logo=talend&logoColor=fff&style=flat)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat)
-![Power BI](https://img.shields.io/badge/power-bi-yellow?logoColor=yellow&labelColor=yellow&color=black)
+![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=fff&style=flat)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=fff&style=flat)
+![Power BI](https://img.shields.io/badge/power-bi-yellow?style=for-the-badge&logoColor=yellow&labelColor=yellow&color=black)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-alnakshbandi/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-alnakshbandi/) 
 [![XING](https://img.shields.io/static/v1?style=for-the-badge&message=Xing&color=006567&logo=Xing&logoColor=FFFFFF&label)]( https://www.xing.com/profile/Amjad_Alnakshbandi)
