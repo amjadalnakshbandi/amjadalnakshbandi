@@ -29,5 +29,5 @@
 ![Power BI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcTrpqqe2HcMkOUflczPB-lfdTmsnvjuNnQ&s)
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-alnakshbandi/) 
-![XING](https://www.designenlassen.de/blog/wp-content/uploads/2024/03/Xing.png)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-alnakshbandi/) 
+[![XING](https://www.designenlassen.de/blog/wp-content/uploads/2024/03/Xing.png)]( https://www.xing.com/profile/Amjad_Alnakshbandi)
