@@ -26,6 +26,8 @@
 
 ![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?logo=talend&logoColor=fff&style=flat)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat)
+![Power BI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcTrpqqe2HcMkOUflczPB-lfdTmsnvjuNnQ&s)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-alnakshbandi/) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-alnakshbandi/) 
+![XING](https://www.designenlassen.de/blog/wp-content/uploads/2024/03/Xing.png)
